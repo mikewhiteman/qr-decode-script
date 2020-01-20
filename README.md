@@ -13,4 +13,4 @@ Linux:
 # Usage
 `./qr_decode.py [path]`
 
-* path - The local a file path to QR code image (png, jpg, etc.)
+* path - Local file path to QR code (png, jpg, etc.)
