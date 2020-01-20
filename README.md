@@ -10,3 +10,5 @@ Mac OS X:
 Linux:
 `sudo apt-get install libzbar0` 
 
+# Usage
+`./qr_decode.py [path]`
