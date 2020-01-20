@@ -11,4 +11,4 @@ Linux:
 `sudo apt-get install libzbar0` 
 
 # Usage
-`./qr_decode.py [path]`
+`./qr_decode.py [path to local file]`
