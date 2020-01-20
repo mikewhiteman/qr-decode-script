@@ -1,5 +1,5 @@
 # qr-decode-script
-Dead simple Python script using pyzbar to decode QR codes offline (useful for CTFs)
+Dead simple Python script using the `zbar library` to decode QR codes offline (useful for CTFs)
 
 # Installation
 There may be a way to do this with native Python libraries but few seemed actively maintained. For the script to work, you'll need to install the `zbar shared library` on Linux/Mac OS X systems:
