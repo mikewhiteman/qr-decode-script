@@ -11,6 +11,6 @@ Linux:
 `sudo apt-get install libzbar0` 
 
 # Usage
-`./qr_decode.py [path]
+`./qr_decode.py [path]`
 
-* path - The locala file path to QR code image (png, jpg, etc.)
+* path - The local a file path to QR code image (png, jpg, etc.)
